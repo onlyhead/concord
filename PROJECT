@@ -22,9 +22,9 @@ concord
 0.0.10
 
 [lib]
-datapod|https://github.com/robolibs/datapod.git|0.0.41
-optinum|https://github.com/robolibs/optinum.git|0.0.18
-graphix|https://github.com/robolibs/graphix.git|0.0.7
+datapod|https://github.com/robolibs/datapod.git|0.0.52
+optinum|https://github.com/robolibs/optinum.git|0.0.21
+graphix|https://github.com/robolibs/graphix.git|0.0.8
 
 [example]
 pkg::rerun_sdk
